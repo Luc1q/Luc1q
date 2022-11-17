@@ -18,12 +18,16 @@
   <img src="https://media.giphy.com/media/26FPpSuhgHvYo9Kyk/giphy.gif" height="300"/>
 </div>
   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+  
   ### :woman_technologist: About Me :
    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
  
  - :nerd_face: Я люблю сериалы
  - 	:skull: Живот не от пива, живот для пива!!!!!
   - :face_with_spiral_eyes: Хочу получить диплом
+  
+  
   
   ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -43,3 +47,18 @@
   ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luc1q&theme=blux&border_radius=4.8)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
