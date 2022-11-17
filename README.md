@@ -7,3 +7,9 @@
   </a>
   <a href="https://t.me/luc1q_ghoul">
     <img src="https://img.shields.io/badge/ Telegram-yellow?style=for-the badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
+    
+<div id="heythere" align="center">
+  <h1>
+  <img src="https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif" width="300px"/>
+</h1>
+</div>
